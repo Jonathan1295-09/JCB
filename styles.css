@@ -5,9 +5,10 @@ body{
 }
 
 .box{
-    border: solid white;
-    border-radius: 15px;
+    border: solid white 5px;
     background-color: goldenrod;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
 }
 
 header{
