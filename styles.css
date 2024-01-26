@@ -4,6 +4,12 @@ body{
     background-color: gray;
 }
 
+.box{
+    border: solid white;
+    border-radius: 15px;
+    background-color: goldenrod;
+}
+
 header{
     text-align: center;
     font-size: 100px;
